@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<plugin id="cordova-plugin-queries-schemes" version="0.1.1" xmlns="http://apache.org/cordova/ns/plugins/1.0">
-    <name>App Queries Strings</name>
-    <author>Rob Hilgefort (http://rob.hilgefort.me)</author>
+<plugin id="cordova-plugin-queries-schemes" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0">
+    <name>Bonus Chips Queries Strings</name>
+    <author>Louis Naber (http://louisnaber.com)</author>
     <description>
       Cordova / PhoneGap Plugin to work arround Apple's iOS9 requirement that URL Schemes
       be declared and submitted to Apple (via Info.plist file)
